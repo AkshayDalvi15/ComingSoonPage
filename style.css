@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url('img.jpg');
+    background-image: url('soon.jpg');
     
     height: 100vh;
     background-position: center;
@@ -22,20 +22,21 @@ body {
 h1 {
     font-size: 60px;
     letter-spacing: 10px;
+    color: azure;
     font-family: 'Roboto', sans-serif;
 }
 
 hr {
     width:50%;
     margin: 30px auto;
-    border: 2px solid black; 
+    border: 2px solid gold;
 }
 
 p {
     font-size: 20px;
+    color: aliceblue;
 }
 
 #timer {
     font-size: 25px;
 }
-
