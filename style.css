@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('img.jpg');
+    
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.hero {
+    top: 50%;
+    left:50%;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    letter-spacing: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+hr {
+    width:50%;
+    margin: 30px auto;
+    border: 2px solid black; 
+}
+
+p {
+    font-size: 20px;
+}
+
+#timer {
+    font-size: 25px;
+}
+
